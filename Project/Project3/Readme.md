@@ -42,9 +42,9 @@ All codes are in code/ folder. `
 ## Results
 Below, we see the balidation and testing accuracy of supervised and semi-supervised techniques.
 
-![] (https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/images/Results.png)
+![Alt text] (https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/images/Results.png)
 
-![] (https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/images/graph_variation.png "")
+![Alt text] (https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/images/graph_variation.png "")
 
 ## Reference
 
