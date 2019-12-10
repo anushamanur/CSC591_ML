@@ -32,4 +32,10 @@ To implement semi-supervised techniques, implementation of the algorithms which 
 
 All codes are in code/ folder. `
 
+* s3vm.ipynb, self_learning.ipynb, Graphbased.py and EM.ipynb contain our implemntations of the semi-supervised algorithms on this dataset
+* frameworks.ipynb, methods.ipynb and qns3vm.ipynb are the modules required for implmentations of the above algorithms.
+* Tu run graphbased.py, use
+'''
+GraphBasedLearn(X)
+'''
 
