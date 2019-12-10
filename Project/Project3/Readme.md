@@ -54,6 +54,4 @@ Below, we see the validation and testing accuracy of supervised and semi-supervi
 ## Reference
 
 * s3vm and self learning were implmented using [Semi-supervised learning frameworks for Python](https://github.com/tmadl/semisup-learn)
-* EM with NB was implemented using [semi-supervised learning with EM] (https://github.com/jerry-shijieli/Text_Classification_Using_EM_And_Semisupervied_Learning)
- 
-
+* EM with NB was implemented using [semi-supervised learning with EM](https://github.com/jerry-shijieli/Text_Classification_Using_EM_And_Semisupervied_Learning)
