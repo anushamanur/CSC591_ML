@@ -26,14 +26,14 @@ is the category (newsgroups) to which each of the article belongs to. We importe
 ## Code
 
 The code is pretty straight forward and well documented. The preprocessing of the documents and the implementation of classifiers have been done from scratch and then the results have been compared to inbuilt sklearn's classifiers. The code has been arranged in form of IPython Notebooks, each notebook corresponds to a particular "classifier" or "technique" used for classifying the dataset.
-To implement semi-supervised techniques, implementation of the algorithms which were not built-in modules were also used.
+To implement semi-supervised techniques, implementation of the algorithms which were not built-in, modules were also used.
 
 ## Running the test
 
 All codes are in code/ folder. `
 
 * s3vm.ipynb, self_learning.ipynb, Graphbased.py and EM.ipynb contain our implemntations of the semi-supervised algorithms on this dataset
-* frameworks.ipynb, methods.ipynb and qns3vm.ipynb are the modules required for implmentations of the above algorithms.
+* frameworks.ipynb, methods.ipynb and qns3vm.ipynb, Semi_EM_NB.py are the modules required for implmentations of the above algorithms.
 * Tu run graphbased.py, use
     ```
      $python Graphbased.py
