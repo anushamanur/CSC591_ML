@@ -42,7 +42,10 @@ All codes are in code/ folder. `
 ## Results
 Below, we see the balidation and testing accuracy of supervised and semi-supervised techniques.
 
-![alt text] ()
+![accuracy] (https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/images/Results.png)
+
+![variation in #unlabeled data](https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/images/graph_variation.png)
+
 ## Reference
 
 * s3vm and self learning were implmented using [Semi-supervised learning frameworks for Python](https://github.com/tmadl/semisup-learn)
