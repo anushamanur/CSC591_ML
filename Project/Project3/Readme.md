@@ -38,6 +38,11 @@ All codes are in code/ folder. `
     ```
      $python Graphbased.py
     ```
+    
+## Results
+Below, we see the balidation and testing accuracy of supervised and semi-supervised techniques.
+
+![alt text] ()
 ## Reference
 
 * s3vm and self learning were implmented using [Semi-supervised learning frameworks for Python](https://github.com/tmadl/semisup-learn)
