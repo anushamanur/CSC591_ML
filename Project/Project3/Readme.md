@@ -38,6 +38,8 @@ All codes are in code/ folder. `
     ```
      $python Graphbased.py
     ```
- 
+## Reference
+
+* s3vm and self learning were implmented using [Semi-supervised learning frameworks for Python](https://github.com/tmadl/semisup-learn)
  
 
