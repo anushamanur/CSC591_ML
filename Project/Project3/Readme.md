@@ -43,7 +43,7 @@ All codes are in code/ folder. `
 Below, we see the validation and testing accuracy of supervised and semi-supervised techniques.
 
 <div align="center">
-    <img src="/https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/images/Results.png" width:100px ; height:100px /> 
+    <img src="/https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/images/Results.png" width="100"  height="100" /> 
 </div>
 
 <div align="center">
