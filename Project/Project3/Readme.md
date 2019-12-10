@@ -42,7 +42,9 @@ All codes are in code/ folder. `
 ## Results
 Below, we see the validation and testing accuracy of supervised and semi-supervised techniques.
 
-![accuracy](https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/images/Results.png)
+<div align="center">
+    <img src="/https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/images/Results.png" width="400px"</img> 
+</div>
 
 ![variation in #unlabeled data](https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/images/graph_variation.png)
 
