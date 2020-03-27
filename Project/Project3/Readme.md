@@ -44,9 +44,7 @@ Below, we see the validation and testing accuracy of supervised and semi-supervi
 
 ![alt text](https://github.com/anushamanur/CSC591_ML/Project/Project3/images/Results.png)
 
-<div align="center">
-    <img src="https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/Results.png" width="100"  height="100" /> 
-</div>
+![Image][https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/Results.png"]
 
 <div align="center">
     <img src="https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/graph_variation.png" width="400px"</img> 
