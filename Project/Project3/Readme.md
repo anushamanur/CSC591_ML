@@ -1,10 +1,6 @@
 # Text classification using semi-supervised techniques
 
-With the massive volume of data available online such as news feed, email, medical records; automati-
-cally classifying text documents is a problem. Such text classification usually requires large amount of
-labeled data to train any model which affects the accuracy. Hence, to improve the accuracy, unlabeled
-documents can be used to augment the labeled ones.  We focus on semi-supervised algorithms to
-classify news articles into 20 newsgroups.
+With the massive volume of data available online such as news feed, email, medical records; automatically classifying text documents is a problem. Such text classification usually requires large amount of labeled data to train any model which affects the accuracy. Hence, to improve the accuracy, unlabeled documents can be used to augment the labeled ones.  We focus on semi-supervised algorithms to classify news articles into 20 newsgroups.
 
 ## Dataset
 
