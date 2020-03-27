@@ -47,7 +47,7 @@ Below, we see the validation and testing accuracy of supervised and semi-supervi
 ![Image][https://github.com/anushamanur/CSC591_ML/tree/master/Project/Project3/Results.png"]
 
 <p align="center">
-    <img src="graph_variation.png" width="400" /> 
+    <img src="images/graph_variation.png" width="400" /> 
 </p>
 
 
